@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/LiadBenMoshe/MySearchPhoto/static/css/main.5ad53e67.chunk.css",
+    "main.js": "/LiadBenMoshe/MySearchPhoto/static/js/main.971f3323.chunk.js",
+    "main.js.map": "/LiadBenMoshe/MySearchPhoto/static/js/main.971f3323.chunk.js.map",
+    "runtime-main.js": "/LiadBenMoshe/MySearchPhoto/static/js/runtime-main.2941539a.js",
+    "runtime-main.js.map": "/LiadBenMoshe/MySearchPhoto/static/js/runtime-main.2941539a.js.map",
+    "static/js/2.e752a839.chunk.js": "/LiadBenMoshe/MySearchPhoto/static/js/2.e752a839.chunk.js",
+    "static/js/2.e752a839.chunk.js.map": "/LiadBenMoshe/MySearchPhoto/static/js/2.e752a839.chunk.js.map",
+    "index.html": "/LiadBenMoshe/MySearchPhoto/index.html",
+    "precache-manifest.d4f111fc177f9dad9be5a8c5379d6e04.js": "/LiadBenMoshe/MySearchPhoto/precache-manifest.d4f111fc177f9dad9be5a8c5379d6e04.js",
+    "service-worker.js": "/LiadBenMoshe/MySearchPhoto/service-worker.js",
+    "static/css/main.5ad53e67.chunk.css.map": "/LiadBenMoshe/MySearchPhoto/static/css/main.5ad53e67.chunk.css.map",
+    "static/js/2.e752a839.chunk.js.LICENSE.txt": "/LiadBenMoshe/MySearchPhoto/static/js/2.e752a839.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2941539a.js",
+    "static/js/2.e752a839.chunk.js",
+    "static/css/main.5ad53e67.chunk.css",
+    "static/js/main.971f3323.chunk.js"
+  ]
+}
