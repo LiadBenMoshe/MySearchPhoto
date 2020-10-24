@@ -22,6 +22,7 @@ class App extends React.Component {
           per_page: "14",
         },
       });
+      console.log(response);
       this.setState({ image: response.data.results });
     }
   };
